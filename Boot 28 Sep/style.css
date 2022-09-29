@@ -1,0 +1,31 @@
+#contenedor {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.form-control{
+    width: 280px;
+}
+
+img {
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+}
+
+a{
+    text-decoration: none;
+    transform: none;
+    color: black;
+    font-weight: 600;
+}
+
+#btnreg{
+    margin-top: 50px;
+    text-decoration: none;
+   color: white;
+}
